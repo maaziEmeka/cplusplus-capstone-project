@@ -24,7 +24,7 @@
 #include <fstream>
 
 int main() {
-    curl_global_init(CURL_GLOBAL_DEFAULT);
+    // curl_global_init(CURL_GLOBAL_DEFAULT);
 
     int exit_code = 0;
     try {
